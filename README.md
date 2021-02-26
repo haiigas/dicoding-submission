@@ -1,4 +1,4 @@
-## Dicoding Sumbission 
+## Dicoding Submission 
 
 ### Belajar Dasar Pemrograman Web
 Berikut merupakan screenshoot dari hasil belajar dasar pemrograman web yang saya buat sebagai hasil submission dicoding.
