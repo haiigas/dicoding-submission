@@ -1,5 +1,3 @@
-## Dicoding Submission 
-
 ### Sertifikat
 https://www.dicoding.com/certificates/6RPNK3GM9P2M
 
